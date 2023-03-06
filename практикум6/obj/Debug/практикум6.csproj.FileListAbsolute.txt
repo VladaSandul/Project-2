@@ -1,0 +1,7 @@
+C:\Users\Hi-tech\OneDrive\Рабочий стол\массивы\практикум6\bin\Debug\практикум6.exe.config
+C:\Users\Hi-tech\OneDrive\Рабочий стол\массивы\практикум6\bin\Debug\практикум6.exe
+C:\Users\Hi-tech\OneDrive\Рабочий стол\массивы\практикум6\bin\Debug\практикум6.pdb
+C:\Users\Hi-tech\OneDrive\Рабочий стол\массивы\практикум6\obj\Debug\практикум6.csproj.AssemblyReference.cache
+C:\Users\Hi-tech\OneDrive\Рабочий стол\массивы\практикум6\obj\Debug\практикум6.csproj.CoreCompileInputs.cache
+C:\Users\Hi-tech\OneDrive\Рабочий стол\массивы\практикум6\obj\Debug\практикум6.exe
+C:\Users\Hi-tech\OneDrive\Рабочий стол\массивы\практикум6\obj\Debug\практикум6.pdb
